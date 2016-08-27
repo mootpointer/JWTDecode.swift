@@ -45,6 +45,10 @@
 		918A8E821D63DB42001F787B /* Quick.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 918A8E7B1D63D86E001F787B /* Quick.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		918A8E831D63DB4D001F787B /* Nimble.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 918A8E7A1D63D86E001F787B /* Nimble.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		E86B252B1D717E0C00140735 /* JWTDecode.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F0068E71B3B46240048928E /* JWTDecode.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E86B25811D7181AF00140735 /* JWTDecode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0069021B3B511F0048928E /* JWTDecode.swift */; };
+		E86B25821D7181B100140735 /* JWT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE49DCC1BA0D5F700DE57D3 /* JWT.swift */; };
+		E86B25831D7181B400140735 /* Errors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE49DCF1BA0D66F00DE57D3 /* Errors.swift */; };
+		E86B25841D7181B900140735 /* A0JWT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8B43681B9F99B400A0D5AE /* A0JWT.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -689,6 +693,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E86B25841D7181B900140735 /* A0JWT.swift in Sources */,
+				E86B25811D7181AF00140735 /* JWTDecode.swift in Sources */,
+				E86B25831D7181B400140735 /* Errors.swift in Sources */,
+				E86B25821D7181B100140735 /* JWT.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
