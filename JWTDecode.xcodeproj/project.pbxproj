@@ -44,7 +44,7 @@
 		918A8E7F1D63D86E001F787B /* Quick.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 918A8E7B1D63D86E001F787B /* Quick.framework */; };
 		918A8E821D63DB42001F787B /* Quick.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 918A8E7B1D63D86E001F787B /* Quick.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		918A8E831D63DB4D001F787B /* Nimble.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 918A8E7A1D63D86E001F787B /* Nimble.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		E8EBB98C1D7178F900840EA1 /* JWTDecode-watchOS.h in Headers */ = {isa = PBXBuildFile; fileRef = E8EBB98A1D7178F900840EA1 /* JWTDecode-watchOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E86B252B1D717E0C00140735 /* JWTDecode.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F0068E71B3B46240048928E /* JWTDecode.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -375,7 +375,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E8EBB98C1D7178F900840EA1 /* JWTDecode-watchOS.h in Headers */,
+				E86B252B1D717E0C00140735 /* JWTDecode.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1187,6 +1187,7 @@
 				E8EBB98F1D7178F900840EA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
