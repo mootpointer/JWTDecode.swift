@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E8EBB9871D7178F900840EA1"
-               BuildableName = "JWTDecode-watchOS.framework"
+               BuildableName = "JWTDecode.framework"
                BlueprintName = "JWTDecode-watchOS"
                ReferencedContainer = "container:JWTDecode.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E8EBB9871D7178F900840EA1"
-            BuildableName = "JWTDecode-watchOS.framework"
+            BuildableName = "JWTDecode.framework"
             BlueprintName = "JWTDecode-watchOS"
             ReferencedContainer = "container:JWTDecode.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E8EBB9871D7178F900840EA1"
-            BuildableName = "JWTDecode-watchOS.framework"
+            BuildableName = "JWTDecode.framework"
             BlueprintName = "JWTDecode-watchOS"
             ReferencedContainer = "container:JWTDecode.xcodeproj">
          </BuildableReference>
